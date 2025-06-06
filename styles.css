@@ -376,6 +376,7 @@
     }
     
     .btn-art-portfolio:hover {
+      border:3px solid #f8f9fa;
       transform: translateY(-3px);
       box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     }
